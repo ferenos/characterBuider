@@ -1,0 +1,15 @@
+{
+  "id": "character-builder",
+  "title": "Character Builder",
+  "description": "",
+  "authors": [
+    {
+    "name": "TheJamMan"
+    }
+    ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}
