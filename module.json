@@ -11,5 +11,11 @@
   "compatibility": {
     "minimum": "9",
     "verified": "10"
-  }
+  },
+  "scripts": [
+    "scripts/init.js"
+  ],
+  "url": "https://github.com/ferenos/characterBuider",
+  "manifest": "https://raw.githubusercontent.com/ferenos/characterBuider/main/module.json",
+  "download": "https://github.com/ferenos/characterBuider/archive/release.zip"
 }
